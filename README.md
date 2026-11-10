@@ -1,0 +1,1 @@
+Se desarrolló una aplicación web con Flask conectada a una base de datos MySQL. Ambos servicios fueron desplegados en contenedores Docker independientes y gestionados mediante Docker Compose, permitiendo la comunicación entre ellos y demostrando el uso de la contenerización en un entorno de integración continua.
